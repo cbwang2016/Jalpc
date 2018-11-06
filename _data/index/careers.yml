@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Peking University
     i18n: company_b
   desc:
     detail: ...

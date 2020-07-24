@@ -13,6 +13,7 @@
     detail: Student
     i18n: company_a_job
   icon: fa-plus-square
+  present: true
 
 - name:
     detail: Peking University
